@@ -2,7 +2,9 @@
    Tip: Use the README for guidance.
 */
 
-
+p{
+  
+}
 /* TODO 1:
   - Define CSS variables on :root for brand colors.
   - Apply a global box-sizing reset using the universal selector (hint use * selector).
